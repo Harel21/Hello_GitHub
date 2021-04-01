@@ -2,6 +2,6 @@
 #include <stdlib.h>
 
 int main(){
-	printf("Hello GitHub!");
+	printf("Hello, GitHub!");
 	return 0;
 }
